@@ -1,0 +1,42 @@
+/**
+ * @copyright @2022 Techechelons Infosolutions Pvt. Ltd. All rights reserved.
+ * @description Main css of index file as global style
+ * --------------------------------------------------------------------
+ * Creation Details
+ * @author Naishad Vaishnav
+ * Date Created: 14/Nov/2022
+ * FDO Ref:
+ * TDO Ref:
+ * RTM Ref:
+ * Test Case Ref:
+ */
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  height: 100%;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}

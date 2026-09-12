@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'Aleo-Bold';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Aleo-Bold'), url('aleo/Aleo-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Aleo-Italic';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Aleo-Italic'), url('aleo/Aleo-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Aleo-Light';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Aleo-Light'), url('aleo/Aleo-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Aleo-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Aleo-Regular'), url('aleo/Aleo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mulish-Black';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Mulish-Black'), url('mulish/Mulish-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mulish-Bold';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Mulish-Bold'), url('mulish/Mulish-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mulish-ExtraBold';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Mulish-ExtraBold'),
+    url('mulish/Mulish-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mulish-ExtraLight';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Mulish-ExtraLight'),
+    url('mulish/Mulish-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mulish-Italic';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Mulish-Italic'),
+    url('mulish/Mulish-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mulish-Light';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Mulish-Light'), url('mulish/Mulish-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mulish-Medium';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Mulish-Medium'),
+    url('mulish/Mulish-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mulish-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Mulish-Regular'),
+    url('mulish/Mulish-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mulish-SemiBold';
+  font-weight: normal;
+  font-style: normal;
+  src: local('Mulish-SemiBold'),
+    url('mulish/Mulish-SemiBold.ttf') format('truetype');
+}
